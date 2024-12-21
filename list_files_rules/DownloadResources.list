@@ -9,9 +9,8 @@ PROCESS-NAME,NPS Browser 0.95.exe
 # Download some Unlock game resources
 DOMAIN-KEYWORD,uploadhaven
 DOMAIN-KEYWORD,uploadhaven.com
-DOMAIN,uploadhaven.com
 DOMAIN-KEYWORD,steamunlocked
-DOMAIN-KEYWORD,igg-games
+
 
 # Download Some Video(like Youtube)
 PROCESS-NAME,youtube-dl.exe
@@ -19,10 +18,6 @@ PROCESS-NAME,youtube-dl.exe
 # Civitai Website
 DOMAIN-KEYWORD,civitai
 DOMAIN,civitai.com
-
-# Some books library
-DOMAIN-KEYWORD,booksc
-DOMAIN-KEYWORD,b-ok
 
 # wkhtmlto
 PROCESS-NAME,wkhtmltoimage.exe
@@ -37,10 +32,3 @@ USER-AGENT,osu*
 
 # Huggingface
 DOMAIN-KEYWORD,huggingface
-
-# Z-Library Official
-DOMAIN-KEYWORD,singlelogin
-DOMAIN-SUFFIX,singlelogin.re
-
-# Some xyz SUFFIX
-DOMAIN-SUFFIX,xyz

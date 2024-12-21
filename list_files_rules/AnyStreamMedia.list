@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,bilibili.tv
 # Chrome Remote Desktop
 PROCESS-NAME,remoting_host.exe
 PROCESS-NAME,remoting_desktop.exe
+PROCESS-NAME,com.google.chromeremotedesktop
