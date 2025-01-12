@@ -31,9 +31,6 @@ PROCESS-NAME,HRUpdate.exe
 PROCESS-NAME,HipsLog.exe
 PROCESS-NAME,HipsDaemon.exe
 
-# Nite07
-# DOMAIN-KEYWORD,nite07
-
 # BitCome
 PROCESS-NAME,BitComet.exe
 
