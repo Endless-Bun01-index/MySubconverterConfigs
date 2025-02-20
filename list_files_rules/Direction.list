@@ -65,3 +65,7 @@ PROCESS-NAME,Hiddify.exe
 # Clash Verge
 PROCESS-NAME,verge-mihomo.exe
 PROCESS-NAME,verge-mihomo-alpha.exe
+
+# Mihomo Party
+PROCESS-NAME,mihomo.exe
+PROCESS-NAME,mihomo-alpha.exe

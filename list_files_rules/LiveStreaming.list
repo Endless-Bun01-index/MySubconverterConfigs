@@ -1,6 +1,3 @@
-# FFmpeg
-PROCESS-NAME,ffmpeg.exe
-
 # OBS Studio
 PROCESS-NAME,obs.exe
 PROCESS-NAME,obs64.exe
